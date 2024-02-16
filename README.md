@@ -46,7 +46,7 @@ In this repository i add different folders :-
 <strong>Contribution</strong> <br>
 Contributions are welcome! If you’d like to contribute to this repository, feel free to submit pull requests or open issues.
 
-<strong>Contact</strong>
+<strong>Contact</strong> <br>
 Feel free to reach out if you have any questions or suggestions. You can find me on GitHub or connect via email.
 
 Happy coding! 🚀📚
