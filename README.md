@@ -30,6 +30,15 @@ In this repository i add different folders :-
   <li>Using Structures to store value in arrays.</li>
 </ul>
 <br>
+<strong>String</strong> : In this folder I have write a basic program of string operations like initialization,taking string data and print out the data and many more :-
+<br/>
+<ul>
+  <li>Testing 2 different functions like scanf() printf() and gets() puts(). </li>
+  <li>Conting string character without string functions.</li>
+  <li>Counting alphabet ,digits and special characters.</li>
+  <li>String reverse operations.</li>
+</ul>
+<br/>
 <strong>Future Scope :</strong> This Repository is actively maintained and welcomes contributions. I have to add more DSA topics as follows:
 <ul>
   <li> String </li>
