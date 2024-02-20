@@ -37,6 +37,7 @@ In this repository i add different folders :-
   <li>Conting string character without string functions.</li>
   <li>Counting alphabet ,digits and special characters.</li>
   <li>String reverse operations.</li>
+  <li>String comparison (Equal or not)</li>
 </ul>
 <br/>
 <strong>Future Scope :</strong> This Repository is actively maintained and welcomes contributions. I have to add more DSA topics as follows:
