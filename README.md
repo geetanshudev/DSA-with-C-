@@ -38,6 +38,9 @@ In this repository i add different folders :-
   <li>Counting alphabet ,digits and special characters.</li>
   <li>String reverse operations.</li>
   <li>String comparison (Equal or not)</li>
+  <li>Convert lowercase to uppercase (without using string.h)</li>
+  <li>Concatenate 2 strings (not using strcat() ).</li>
+  <li>And Many More.........</li>
 </ul>
 <br/>
 <strong>Future Scope :</strong> This Repository is actively maintained and welcomes contributions. I have to add more DSA topics as follows:
