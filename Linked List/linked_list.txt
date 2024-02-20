@@ -1,0 +1,1 @@
+in this we learn basics about linkded there are different types of linked list like double linked list ,circular linked list,circular doubly linked list in which we have operations like traversal,insertion and deletion
