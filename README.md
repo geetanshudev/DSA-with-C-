@@ -58,5 +58,9 @@ Contributions are welcome! If you’d like to contribute to this repository, fee
 
 <strong>Contact</strong> <br>
 Feel free to reach out if you have any questions or suggestions. You can find me on GitHub or connect via email.
+<br/>
+<br/>
+<strong>Link for practice and learning Dsa : </strong>
+<a href="https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/"> Click Me! </a>
 
 Happy coding! 🚀📚
