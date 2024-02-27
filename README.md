@@ -43,9 +43,31 @@ In this repository i add different folders :-
   <li>And Many More.........</li>
 </ul>
 <br/>
+<strong>Linklist</strong> : In this i have covered different types of link list like <strong>Singly Link List , Doubly Link List , Circular Link list , Double Circular link list</strong> in which I have perform different types of operations like :- </br>
+<ul>
+  <li>Creating list,</li>
+  <li>Traversing list,</li>
+  <li>Inserting Element in List
+  <ul>
+    <li>From begining of list,</li>
+    <li>From end of list,</li>
+    <li>At given positions</li>
+  </ul>
+  </li>
+  <li>Deleting Element from list
+  <ul>
+    <li>From Begining of list,</li>
+    <li>From End of list,</li>
+    <li>From given positions</li>
+  </ul>
+  </li>
+  <li>Serching Element from list,</li>
+  <li>Reversing Elements in list.</li>
+</ul>
+
 <strong>Future Scope :</strong> This Repository is actively maintained and welcomes contributions. I have to add more DSA topics as follows:
 <ul>
-  <li> String </li>
+  
   <li>Linked List</li>
   <li>Stack</li>
   <li>Queue</li>
