@@ -64,11 +64,11 @@ In this repository i add different folders :-
   <li>Serching Element from list,</li>
   <li>Reversing Elements in list.</li>
 </ul>
-
+<hr>
 <strong>Future Scope :</strong> This Repository is actively maintained and welcomes contributions. I have to add more DSA topics as follows:
 <ul>
   
-  <li>Linked List</li>
+  
   <li>Stack</li>
   <li>Queue</li>
   <li>Tree</li>
