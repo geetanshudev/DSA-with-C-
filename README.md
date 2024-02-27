@@ -64,7 +64,7 @@ Feel free to reach out if you have any questions or suggestions. You can find me
 <br/>
 <br/>
 <strong>Link for practice and learning Dsa : </strong>
-<a href="https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/"> Link 1 </a>
+<a href="https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/"> Link 1 </a> </br>
 <a href="https://www.prepbytes.com/blog/"> Link 2 </a>
 
 Happy coding! 🚀📚
