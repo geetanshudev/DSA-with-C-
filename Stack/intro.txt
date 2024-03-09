@@ -1,0 +1,2 @@
+In this file i write a program stack with the implementation of array and linklist.
+and perform basic operation push(), pop(), peek(), display().
