@@ -64,6 +64,8 @@ In this repository i add different folders :-
   <li>Serching Element from list,</li>
   <li>Reversing Elements in list.</li>
 </ul>
+<strong>Stack :</strong> In this i have implemnet Stack and its operation both with arrays and linked list and i have cover basic operation like Push, Pop, Front, Display <br>
+
 <hr>
 <strong>Future Scope :</strong> This Repository is actively maintained and welcomes contributions. I have to add more DSA topics as follows:
 <ul>
