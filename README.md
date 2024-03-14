@@ -69,7 +69,7 @@ In this repository i add different folders :-
 <ul>
   
   
-  <li>Stack</li>
+  
   <li>Queue</li>
   <li>Tree</li>
   <li>BST</li>
