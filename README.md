@@ -87,9 +87,10 @@ Contributions are welcome! If you’d like to contribute to this repository, fee
 Feel free to reach out if you have any questions or suggestions. You can find me on GitHub or connect via email.
 <br/>
 <br/>
-<strong>Link for practice and learning Dsa : </strong>
+<strong>Link for practice and learning Dsa : </strong> <br>
 <a href="https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/"> Link 1 </a> </br>
 <a href="https://www.prepbytes.com/blog/"> Link 2 </a> <br>
-<a href="https://quickref.me/c"> Cheat Sheet for C Language </a>
+<a href="https://quickref.me/c"> Cheat Sheet for C Language </a> <br>
+<a href="https://www.programiz.com/dsa/algorithm"> Link3 </a> <br>
 
 Happy coding! 🚀📚
