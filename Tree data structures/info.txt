@@ -1,0 +1,1 @@
+hello in this file you hav see this i have codes of that perform tree operation that takes data and print out in different order like :- preorder,inorder,postorder
